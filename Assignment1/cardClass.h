@@ -1,6 +1,5 @@
 /*******************************************************************************
  * AUTHOR		: Milan Bui
- * STUDENT ID	: 1129567
  * ASSIGNMENT #1: Deck of Cards
  * CLASS		: CS 1C
  * SECTION		: MW: 5:00p - 7:20p
