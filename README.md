@@ -1,2 +1,5 @@
 # CS1C
-Assignments for CS1C Spring 2019
+Assignments  
+
+Course  : Introduction to Computer Science in C++ III 
+Semester: Spring 2019
