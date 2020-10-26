@@ -1,4 +1,4 @@
-#Assignment 2 - Employee Inheritance    
+# Assignment 2 - Employee Inheritance    
 Score: 10/10  
   
  This program will create objects of type Employee, Programmer, and
