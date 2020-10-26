@@ -1,0 +1,66 @@
+***************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #2 : Employee Inheritance
+***************************************************************************
+
+This program will:
+1. Create an array of an object of type Employee using the default constructor
+   and change the values to contain the information of 2 employees
+2. Create a programmer object using the default constructor and change the 
+   values to contain the information of a programmer
+3. Create a architect object using the default constructor and change the 
+   values to contain the information of an architect
+4. Create 2 employee using a non-default constructor to contain the information 
+   of 2 employees
+5. Create a programmer object using a non-default constructor to contain the 
+   information of a programmer
+6. Create a architect object using a non-default constructor to contain the 
+   information of an architect
+7. Output the employees, programmers, and architects before and after the changes.
+
+
+BEFORE
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+              0                       0                        $0       00.00.0     
+              0                       0                        $0       00.00.0     
+Oprah Win...  98765     703-703-1234  37  M      Talk Show...  $900000  12.25.2014  
+Jay Leno      77777     203-555-6789  58  F      Comedian      $500500  03.01.2005  
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   DEPARTMENT SUPERVISOR  RAISE % C++  JAVA 
+-----------------------------------------------------------------------------------------------------------------------------
+              0                       0                        $0       00.00.0     0                      0       No   No   
+Mary Coder    65432     310-555-5555  28  F      Programmer    $770123  02.08.2010  6543222    Mary Le...  7       Yes  Yes  
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   DEPARTMENT SUPERVISOR  RAISE % YEARS EXP
+----------------------------------------------------------------------------------------------------------------------------
+              0                       0                        $0       00.00.0     0                      0       0        
+Sally Des...  87878     310-555-8888  38  F      Architect     $870123  02.08.2003  6543422    Big Boss    8       11       
+
+
+
+AFTER
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Tom Brady     12345     949-555-1234  40  M      Quarterback   $100000  08.31.2014  
+Blake Gri...  12346     310-555-5555  51  M      Basketbal...  $70123   05.08.2015  
+Oprah Win...  98765     703-703-1234  37  M      Talk Show...  $900000  12.25.2014  
+Jay Leno      77777     203-555-6789  58  F      Comedian      $500500  03.01.2005  
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   DEPARTMENT SUPERVISOR  RAISE % C++  JAVA 
+-----------------------------------------------------------------------------------------------------------------------------
+Sam Software  54321     819-123-4567  21  M      Programmer    $223000  12.24.2011  5432122    Joe Boss    4       Yes  No   
+Mary Coder    65432     310-555-5555  28  F      Programmer    $770123  02.08.2010  6543222    Mary Le...  7       Yes  Yes  
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   DEPARTMENT SUPERVISOR  RAISE % YEARS EXP
+----------------------------------------------------------------------------------------------------------------------------
+Alex Arch     88888     819-123-4444  31  M      Architect     $323000  12.24.2009  5434222    Big Boss    5       4        
+Sally Des...  87878     310-555-8888  38  F      Architect     $870123  02.08.2003  6543422    Big Boss    8       11       
+
+
