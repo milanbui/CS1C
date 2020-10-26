@@ -1,0 +1,73 @@
+***************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #3 : Pointers
+***************************************************************************
+
+This program will:
+1. Display an inventory list of available athletic equipment
+   for purchase.
+2. Prompt the customer for the amount of different products 
+   they wish to purchase, the name of each product, and the 
+   amount of each product they wish to purchase.
+3. Output a receipt with the name of the products they purchased,
+   the amount of each product purchased, the total before tax, 
+   and the total after a 7.75% tax.
+4. Display the updated inventory list after the purchase has
+    been made.
+
+CURRENT INVENTORY:
+
+Name of Equipment        Cost        Quantity
+---------------------------------------------
+Nike Basketball Shoes    $  189.99      39
+Under Armour T-Shirt     $   22.99      48
+Brooks Running Shoes     $  125.44       9
+Asics Running Shoes      $  115.88      44
+Under Armour Shorts      $   45.77      88
+
+There are five product available. 
+How many different products do you wish to purchase (1 - 5): 4
+
+Please enter the name of the item you would like to purchase
+as shown above: Nike basketball shoes
+Please enter how many you would like to purchase: 6
+
+Please enter the name of the item you would like to purchase
+as shown above: Under Armour T-Shirt
+Please enter how many you would like to purchase: 9
+
+Please enter the name of the item you would like to purchase
+as shown above: Under Armour Shorts
+Please enter how many you would like to purchase: 2
+
+Please enter the name of the item you would like to purchase
+as shown above: Asics Running shoes
+Please enter how many you would like to purchase: 1
+
+
+RECEIPT
+----------------------------------------
+- Product Name -            - Amount -
+nike basketball shoes                6
+under armour t-shirt                 9
+under armour shorts                  2
+asics running shoes                  1
+
+TOTAL COST:              $      1554.27
+
+TAX:                      total x 7.75%
+
+FINAL COST:              $      1674.73
+
+
+CURRENT INVENTORY:
+
+Name of Equipment        Cost        Quantity
+---------------------------------------------
+Nike Basketball Shoes    $  189.99      33
+Under Armour T-Shirt     $   22.99      39
+Brooks Running Shoes     $  125.44       9
+Asics Running Shoes      $  115.88      43
+Under Armour Shorts      $   45.77      86
