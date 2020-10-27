@@ -1,0 +1,77 @@
+*************************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #13: Miscellaneous Topics
+*************************************************************************************
+
+This program will:
+1. calculate the number of bits turned on for all capital and lower
+   case letters.
+2. Displays the ASCII representation of the numbers.
+
+*************************************************************************************
+BIT COUNT FOR CAPITAL LETTERS
+*************************************************************************************
+
+Number of bits turned on for A = 2
+Number of bits turned on for B = 2
+Number of bits turned on for C = 3
+Number of bits turned on for D = 2
+Number of bits turned on for E = 3
+Number of bits turned on for F = 3
+Number of bits turned on for G = 4
+Number of bits turned on for H = 2
+Number of bits turned on for I = 3
+Number of bits turned on for J = 3
+Number of bits turned on for K = 4
+Number of bits turned on for L = 3
+Number of bits turned on for M = 4
+Number of bits turned on for N = 4
+Number of bits turned on for O = 5
+Number of bits turned on for P = 2
+Number of bits turned on for Q = 3
+Number of bits turned on for R = 3
+Number of bits turned on for S = 4
+Number of bits turned on for T = 3
+Number of bits turned on for U = 4
+Number of bits turned on for V = 4
+Number of bits turned on for W = 5
+Number of bits turned on for X = 3
+Number of bits turned on for Y = 4
+Number of bits turned on for Z = 4
+
+
+*************************************************************************************
+BIT COUNT FOR LOWERCASE LETTERS
+*************************************************************************************
+
+Number of bits turned on for a = 3
+Number of bits turned on for b = 3
+Number of bits turned on for c = 4
+Number of bits turned on for d = 3
+Number of bits turned on for e = 4
+Number of bits turned on for f = 4
+Number of bits turned on for g = 5
+Number of bits turned on for h = 3
+Number of bits turned on for i = 4
+Number of bits turned on for j = 4
+Number of bits turned on for k = 5
+Number of bits turned on for l = 4
+Number of bits turned on for m = 5
+Number of bits turned on for n = 5
+Number of bits turned on for o = 6
+Number of bits turned on for p = 3
+Number of bits turned on for q = 4
+Number of bits turned on for r = 4
+Number of bits turned on for s = 5
+Number of bits turned on for t = 4
+Number of bits turned on for u = 5
+Number of bits turned on for v = 5
+Number of bits turned on for w = 6
+Number of bits turned on for x = 4
+Number of bits turned on for y = 5
+Number of bits turned on for z = 5
+
+
+Total bits on: 198
