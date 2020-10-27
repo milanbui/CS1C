@@ -1,0 +1,130 @@
+***************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #5 : Enhanced Employee
+***************************************************************************
+
+This program will:
+1. Create two SoftwareTester objects using a non-default destructor
+2. Create two SoftwareTester objects using the initialization 
+   constructor 
+3. Displays the current information of each of the testers
+4. Change the information of tester2 to test the change methods
+5. Change the information of tester3 to test the deep copy method
+6. Call four functions that pass by copy, pass by reference, return
+   by copy, return by reference to test the copy contructor
+
+
+CREATING TWO SOFTWARE TESTER OBJECTS USING NON-DEFAULT CONSTRUCTORS
+-------------------------------------------------------------------
+NON-DEFAULT CONSTRUCTOR CALLED
+
+NON-DEFAULT CONSTRUCTOR CALLED
+
+CREATING TWO SOFTWARE TESTER OBJECTS USING THE INITIALZATION CONSTRUCTOR
+------------------------------------------------------------------------
+COPY CONSTRUCTOR CALLED
+
+COPY CONSTRUCTOR CALLED
+
+
+CURRENT SOFTWARE TESTERS:
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Joe Calculus  64879     949-555-1234  42  M      Math Wiz      $110000  08.31.2017  
+
+NAME          ADDRESS                  CITY                STATE ZIP CODE
+------------------------------------------------------------------------------------
+Joe Calculus  1234 Main Avenue         Laguna Niguel       CA    92677
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Joe Calculus  64879     949-555-1234  42  M      Math Wiz      $110000  08.31.2017  
+
+NAME          ADDRESS                  CITY                STATE ZIP CODE
+------------------------------------------------------------------------------------
+Joe Calculus  1234 Main Avenue         Laguna Niguel       CA    92677
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Joe Calculus  64879     949-555-1234  42  M      Math Wiz      $110000  08.31.2017  
+
+NAME          ADDRESS                  CITY                STATE ZIP CODE
+------------------------------------------------------------------------------------
+Joe Calculus  1234 Main Avenue         Laguna Niguel       CA    92677
+
+
+TESTING CHANGE FUNCTIONS ON TESTER2
+-----------------------------------
+TESTING DEEP COPY METHOD ON TESTER3
+-----------------------------------
+COPY CONSTRUCTOR CALLED
+
+DESTRUCTOR CALLED
+
+
+CURRENT SOFTWARE TESTERS:
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Joe Calculus  64879     949-555-1234  42  M      Math Wiz      $110000  08.31.2017  
+
+NAME          ADDRESS                  CITY                STATE ZIP CODE
+------------------------------------------------------------------------------------
+Joe Calculus  1234 Main Avenue         Laguna Niguel       CA    92677
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Mary Algebra  76309     213-555-5555  22  F      Math Helper   $170123  05.08.2017  
+
+NAME          ADDRESS                  CITY                STATE ZIP CODE
+------------------------------------------------------------------------------------
+Mary Algebra  3333 Marguerite Pkwy     Mission Viejo       CA    92646
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Jo Trig       10192     714-703-1234  29  F      Math Contact  $200000  12.25.2016  
+
+NAME          ADDRESS                  CITY                STATE ZIP CODE
+------------------------------------------------------------------------------------
+Jo Trig       9876 Elm Street          San Clemente        CA    92672
+
+
+PASS BY COPY TEST FUNCTION
+--------------------------
+COPY CONSTRUCTOR CALLED
+
+object passed by copy
+
+DESTRUCTOR CALLED
+
+PASS BY REFERENCE TEST FUNCTION
+-------------------------------
+object passed by reference
+
+RETURN BY COPY TEST FUNCTION
+----------------------------
+object returned by copy
+
+COPY CONSTRUCTOR CALLED
+
+DESTRUCTOR CALLED
+
+RETURN BY REFERENCE TEST FUNCTION
+---------------------------------
+object returned by reference
+
+DESTRUCTOR CALLED
+
+DESTRUCTOR CALLED
+
+DESTRUCTOR CALLED
+
+DESTRUCTOR CALLED
+
