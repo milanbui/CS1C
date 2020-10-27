@@ -1,0 +1,60 @@
+*************************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #13: Miscellaneous Topics
+*************************************************************************************
+
+This program will:
+1. Use the time functions to: print out today's date, print out the
+   date 108 days from today, and print out the number of days
+   between July 25th and December 24th (July 26th and December 23
+   inclusive.
+2. Use the built-in math routines to: print the error message when
+   calculating the square root of -2, print the error message when
+   dividing by 0, print the error message when calculating the
+   natural log of -2, and print the result of 1*10^19 + 4 - 1*10^19.
+3. Use pointers to functions that: calculate the cube of a double
+   and calculate the cube root of a double.
+
+*************************************************************************************
+PART 1 - USING TIME FUNCTIONS
+*************************************************************************************
+
+Today's Date: Sun Apr 21 19:05:51 2019
+
+The date 108 days from today is: MONTH 8 DAY 7 YEAR 2019
+
+The number of days between:
+Thu Jul 25 01:00:00 2019
+Tue Dec 24 00:00:00 2019
+-> 152 DAYS
+
+*************************************************************************************
+PART 2 - USING BUILT-IN MATH FUNCTIONS
+*************************************************************************************
+
+sqrt error number is Domain error
+sqrt of -2 is nan
+
+Divide by 0 error number is No error
+Division of 1 with 0 is inf
+
+log error number is Domain error
+log of -2 is nan
+
+Calc error number is No error
+1*10^19 + 4 - 1*10^19 = 20
+
+*CORRECTION*
+Calc error number is No error
+(1*10^19) + 4 - (1*10^19) = 4
+
+*************************************************************************************
+PART 3 - POINTERS TO FUNCTIONS
+*************************************************************************************
+
+Cube of 3 is 27
+
+Cube root of 27 is 3
+
