@@ -1,0 +1,34 @@
+***************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #6 : Abstract Class and Command Line Parameter
+***************************************************************************
+
+THIS PROGRAM WILL:
+1. Create an abstract class for a shape and create subclasses
+   for square and triangles.
+2. Calculate and print the area and perimeter of a square and a
+   triangle
+3. Use command line parameter to pass and print my first and last
+   name and print the second character of my first and last name
+
+
+PART 1
+
+The perimeter of the square is     : 35.52 inches
+The perimeter of the triangle is   : 30.00 feet
+
+The area of the square is          : 78.85 inches
+The area of the triangle is        : 30.00 feet
+
+
+
+PART 2
+
+D:\CS 1C\workspace\Assignment 6 - Abstract Class and Command Line Parameters\Debug\Assignment 6 - Abstract Class and Command Line Parameters.exe
+First name: Milan
+Last name : Bui
+
+Second character of first name: i
+Second character of last name : u
