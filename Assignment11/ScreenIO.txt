@@ -1,0 +1,31 @@
+*************************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #11: Recursion
+*************************************************************************************
+
+This program will:
+1. Prompt for input for two indices used to reverse a string
+2. Output the string with the substring from index 1 to index 2
+   reversed
+
+
+Please input the indices you would like to reverse (between 1 and 26)
+Index 1: 12
+Index 2: 19
+
+abcdefghijksrqponmltuvwxyz
+
+Please input the indices you would like to reverse (between 1 and 26)
+Index 1: 5
+Index 2: 23
+
+abcdwvutsrqponmlkjihgfexyz
+
+Please input the indices you would like to reverse (between 1 and 26)
+Index 1: 1
+Index 2: 26
+
+zyxwvutsrqponmlkjihgfedcba
+
