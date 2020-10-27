@@ -1,0 +1,221 @@
+*************************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #14: Linked List
+*************************************************************************************
+
+This program will:
+1. Use a linked list template to create an integer linked list and
+   a linked list of doubles.
+2. It will insert 5 values, reverse the list, display the original
+   and the reversed list, deletes the third node of each list, 
+   adds to the middle of each list, try to delete a non-existent 
+   node, try to delete from an empty list
+3. Does this for the integer linked list and the double linked list.
+
+*************************************************************************************
+INTEGER LINKED LIST
+*************************************************************************************
+
+Adding 88...
+
+Adding 78...
+
+Adding 62...
+
+Adding 123...
+
+Adding 60...
+
+CURRENT LINKED LIST
+-------------------------------------------------------------------------------------
+88 78 62 123 60 
+
+
+
+REVERSING LINKED LIST
+-------------------------------------------------------------------------------------
+Adding 88...
+
+Adding 78...
+
+Adding 62...
+
+Adding 123...
+
+Adding 60...
+
+INTEGER LINKED LIST:
+88 78 62 123 60 
+
+REVERSED INTEGER LINKED LIST:
+60 123 62 78 88 
+
+
+
+DELETE THIRD NODE OF EACH LIST
+-------------------------------------------------------------------------------------
+Deleting 62...
+
+Deleting 62...
+
+INTEGER LINKED LIST:
+88 78 123 60 
+
+REVERSED INTEGER LINKED LIST:
+60 123 78 88 
+
+
+
+ADD TO MIDDLE OF EACH LIST
+-------------------------------------------------------------------------------------
+Adding 70...
+
+Adding 70...
+
+INTEGER LINKED LIST:
+88 78 70 123 60 
+
+REVERSED INTEGER LINKED LIST:
+60 123 70 78 88 
+
+
+
+DELETE NON-EXISTENT NODE IN EACH LIST
+-------------------------------------------------------------------------------------
+Deleting 100...
+
+Could not Delete Item - ITEM NOT FOUND!
+
+Deleting 100...
+
+Could not Delete Item - ITEM NOT FOUND!
+
+INTEGER LINKED LIST:
+88 78 70 123 60 
+
+REVERSED INTEGER LINKED LIST:
+60 123 70 78 88 
+
+
+
+DELETE FROM EMPTY LIST
+-------------------------------------------------------------------------------------
+Deleting 88...
+
+Could not Delete Item - LIST IS EMPTY!
+
+Deleting 88...
+
+Could not Delete Item - LIST IS EMPTY!
+
+INTEGER LINKED LIST:
+Could not Display List - LIST IS EMPTY!
+
+REVERSED INTEGER LINKED LIST:
+Could not Display List - LIST IS EMPTY!
+
+
+
+*************************************************************************************
+DOUBLE LINKED LIST
+*************************************************************************************
+
+Adding 88.8...
+
+Adding 78.9...
+
+Adding 62.6...
+
+Adding 123.4...
+
+Adding 60.6...
+
+CURRENT LINKED LIST
+-------------------------------------------------------------------------------------
+88.8 78.9 62.6 123.4 60.6 
+
+
+
+REVERSING LINKED LIST
+-------------------------------------------------------------------------------------
+Adding 88.8...
+
+Adding 78.9...
+
+Adding 62.6...
+
+Adding 123.4...
+
+Adding 60.6...
+
+DOUBLE LINKED LIST:
+88.8 78.9 62.6 123.4 60.6 
+
+REVERSED DOUBLE LINKED LIST:
+60.6 123.4 62.6 78.9 88.8 
+
+
+
+DELETE THIRD NODE OF EACH LIST
+-------------------------------------------------------------------------------------
+Deleting 62.6...
+
+Deleting 62.6...
+
+INTEGER LINKED LIST:
+88.8 78.9 123.4 60.6 
+
+REVERSED INTEGER LINKED LIST:
+60.6 123.4 78.9 88.8 
+
+
+
+ADD TO MIDDLE OF EACH LIST
+-------------------------------------------------------------------------------------
+Adding 70.7...
+
+Adding 70.7...
+
+INTEGER LINKED LIST:
+88.8 78.9 70.7 123.4 60.6 
+
+REVERSED INTEGER LINKED LIST:
+60.6 123.4 70.7 78.9 88.8 
+
+
+
+DELETE NON-EXISTENT NODE IN EACH LIST
+-------------------------------------------------------------------------------------
+Deleting 100.1...
+
+Could not Delete Item - ITEM NOT FOUND!
+
+Deleting 100.1...
+
+Could not Delete Item - ITEM NOT FOUND!
+
+INTEGER LINKED LIST:
+88.8 78.9 70.7 123.4 60.6 
+
+REVERSED INTEGER LINKED LIST:
+60.6 123.4 70.7 78.9 88.8 
+
+
+
+DELETE FROM EMPTY LIST
+-------------------------------------------------------------------------------------
+Deleting 88.8...
+
+Could not Delete Item - LIST IS EMPTY!
+
+Deleting 88.8...
+
+Could not Delete Item - LIST IS EMPTY!
+
+INTEGER LINKED LIST:
+Could not Display List - LIST IS EMPTY!
+
+REVERSED INTEGER LINKED LIST:
+Could not Display List - LIST IS EMPTY!
