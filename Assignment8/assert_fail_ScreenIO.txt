@@ -1,0 +1,43 @@
+*************************************************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1C
+*	SECTION       : MW: 5:00p - 7:20p
+*	ASSIGNMENT #8 : Exceptions
+*************************************************************************************
+
+This program will:
+1. Create an employee object
+2. Test the assert macro (both pass and fail)
+3. Throw exceptions if the age is less than 16 and if the salary
+   is less than 0
+4. Allows one to fix the error from a throw
+5. Displays the employee after changes
+
+
+CHANGING NAME...
+
+CHANGING ID...
+
+CHANGING PHONE NUMBER...
+
+CHANGING AGE...
+
+CHANGING GENDER...
+
+CHANGING JOB TITLE...
+
+CHANGING SALARY...
+
+CHANGING HIRE DATE...
+
+*************************************************************************************
+PART 1 - ASSERT MACRO (FAIL)
+*************************************************************************************
+
+
+NAME          ID        PHONE         AGE GENDER JOB TITLE     SALARY   HIRE DATE   
+------------------------------------------------------------------------------------
+Joe Calculus  64879     949-555-1234  10  M      Math Wiz      $110000  31.08.2017  
+
+
+Assertion failed: employee2.getAge() > 16, file ..\main.cpp, line 84
